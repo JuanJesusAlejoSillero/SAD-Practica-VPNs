@@ -3,7 +3,6 @@
 **Tabla de contenidos:**
 
 - [**Práctica: Redes Privadas Virtuales**](#práctica-redes-privadas-virtuales)
-  - [**Disclaimer**](#disclaimer)
   - [**A) VPN de acceso remoto con OpenVPN y certificados x509 (5 puntos)**](#a-vpn-de-acceso-remoto-con-openvpn-y-certificados-x509-5-puntos)
   - [**B) VPN sitio a sitio con OpenVPN y certificados x509 (10 puntos)**](#b-vpn-sitio-a-sitio-con-openvpn-y-certificados-x509-10-puntos)
   - [**C) VPN de acceso remoto con WireGuard (5 puntos)**](#c-vpn-de-acceso-remoto-con-wireguard-5-puntos)
